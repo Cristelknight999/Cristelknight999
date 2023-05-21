@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About Me:
+Working on many Minecraft mods
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cristelknight999&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+
+
 <!--
 **Cristelknight999/Cristelknight999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
