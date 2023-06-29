@@ -3,7 +3,7 @@
 ## About Me:
 Working on many Minecraft mods
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cristelknight999&theme=radical&include_all_commits=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Cristelknight999&theme=radicalhide_border=false)
 
 
 
